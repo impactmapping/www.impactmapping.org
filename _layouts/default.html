@@ -3,12 +3,23 @@
 		{% include head.html %}
 	</head>
 	<body>
-		{% include header.html %}
+		{%if page.lang %}
+			{% assign incl = page.lang | append: '/header.html' %}
+				{% include  {{incl}} %}
+			{% else %}
+				{% include header.html %}
+		{% endif %}
+
 		<div class="container">
 		{{content}}
 		</div>
-		{% include footer.html %}
 
+		{%if page.lang %}
+			{% assign incl = page.lang | append: '/footer.html' %}
+				{% include  {{incl}} %}
+			{% else %}
+				{% include footer.html %}
+		{% endif %}
 		{% include scripts.html %}
 	</body>
 </html>

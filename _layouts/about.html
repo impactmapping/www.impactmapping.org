@@ -7,5 +7,10 @@ layout: default
 	<h1>{{page.title}}</h1>
 	{{content}}
 	</div>
-	{%include aboutnav.html%}
+	{%if page.lang %}
+		{% assign incl = page.lang | append: '/aboutnav.html' %}
+	{% include  {{incl}} %}
+	{% else %}
+		{% include aboutnav.html %}
+	{% endif %}
 </div>

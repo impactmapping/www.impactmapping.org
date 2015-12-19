@@ -1,0 +1,19 @@
+---
+title: Atteindre des objectifs plutôt que livrer des fonctionnalités
+layout: about
+lang: fr
+---
+Les entreprises de l'Union Européenne <a href="http://www.bcs.org/content/ConWebDoc/19584" target="_blank">ont perdu 142 milliards d'Euros en 2004 à cause de projets informatiques ratés</a>,
+principalement à cause d'un mauvais alignement avec les objectifs métiers ou à cause de stratégies devenues obsolètes durant la réalisation du projet. C'est approximativement le <a target="_blank" href="http://www.thespacereview.com/article/1579/1">coût du programme de la Station Spatiale Internationale, en comprenant les vols, et presque deux fois plus que le coût du programme Apollo dans sa globalité</a>, qui a aboutit à six alunissages.
+	
+Les logiciels sont partout aujourd'hui, et un nombre incalculable de ceux-ci sont peu à peu délaissés sans qu'ils aient eu le temps d'avoir le moindre impact. Les pratiques actuelle visant à gérer des objectifs métier et communiquer des besoins échouent à livrer des résultats tangibles, et ce problème existe en dehors des nouvelles technologies. Des études de responsables militaires et de chefs d'unités de char dans l'armée US montrent que simplement donner des réponses à "Quoi" et "Comment" ne prépare pas les unités sur le terrain à réagir aux événements imprévus. Pourtant c'est exactement ce que les modèles d'expression de besoins logiciels actuels communiquent aujourd'hui. Expliquer "Pourquoi" et "Attention à" est bien plus important dans un environnement évoluant à grande vitesse tels que la livraison de logiciels. 
+
+L'<a href="/fr/about.html">impact mapping</a> facilite ce processus, en le poussant encore plus loin. Plutôt que de simplement lier les caractéristiques du logiciel aux objectifs métiers au démarrage du projet, les cartes d'impact permettent de maintenir une feuille de route dynamique qui évolue avec les nouvelles informations en provenance du marché, tout en maintenant l'objectif en tête, en faisant des fonctionnalités et du périmètres des éléments secondaires. Vous visualisez des hypothèses, ce qui vous permet de changer de direction une fois que ces hypothèses sont avérées invalides. 
+
+<img src="/assets/assumptions.png" />
+
+L'<a href="/fr/example.html">exemple du système de jeux-vidéo en ligne</a> montre que l'objectif des invitations semi-automatiques est d'encourager les joueurs à inviter leurs amis. Nous partons du principe que livrer cette fonctionnalité va changer le comportement des joueurs. Une fois que la fonctionnalité est livrée, nous pouvons mesurer si cette supposition était vrai ou non. Si les joueurs invitent des amis, nous pouvons continuer à développer cette branche. Sinon, nous devrions nous arrêter là, analyser la situation, et essayer de faire quelque-chose d'autre à propos des invitations. 
+
+La carte d'impact montre aussi une hypothèse de plus haut niveau. Si les joueurs envoient des invitations, nous postulons que leurs amis vont réellement venir et jouer aux jeux. Après chaque livraison effectuée dans la zone "Invitation" de la carte, nous pouvons mesurer si de nouveaux joueurs répondent aux invitations au taux escompté. Si oui, nous devrions continuer à explorer cette zone. Sinon, développer d'autres moyens pour permettre d'envoyer des invitations serait une mauvaise idée. Nous devrions repenser notre stratégie, trouver un moyen d'améliorer les résultats des invitations et peut-être faire quelque-chose d'autre.
+
+Enfin, en liant les livrables aux objectifs métiers, les cartes d'impact confortent l'idée de limiter les objectifs métiers et les impacts que nous souhaitons provoquer à un instant donné, ce qui est en ligne avec l'idée de limiter les travaux en cours (méthodes de développement Lean). Je demande aux personnes de sélectionner seulement un impact à un instant donné et de se concentrer dessus jusqu'à ce qu'il soit atteint.
