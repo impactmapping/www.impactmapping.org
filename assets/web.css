@@ -47,3 +47,6 @@
       .smallmargin {
           margin:10px 10px 10px 10px;
         }
+      .index {
+        white-space: pre;
+      }

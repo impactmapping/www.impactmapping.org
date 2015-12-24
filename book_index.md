@@ -2,7 +2,7 @@
 layout: book
 title: Index
 ---
-<pre>
+{: .index}
 5-Whys technique 38
 actors  7, 50, 65, 66
 actors, behaviour 9, 19, 30
@@ -258,4 +258,3 @@ Wood-Harper, Trevor 22
 wrong assumptions 21
 wrong people  63
 wrong solutions 20
-</pre>
