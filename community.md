@@ -21,6 +21,7 @@ title: Community videos and articles
 * [Impact Mapping - now helping Indonesian Hospitals](http://www.marcusoft.net/2014/02/HospitalImpactMap.html) by Marcus Hammarberg 
 * [How I Fell in Love With Impact Mapping...](http://www.prettyagile.com/2014/02/how-i-fell-in-love-with-impact-mapping.html) by Em Campbell-Pretty
 * [Japanese presentation of Impact Mapping](http://www.slideshare.net/hiranabe/impact-mapping-31215291) by Kenji Hiranabe
+* [Impact mapping and continuous validation](https://blog.codecentric.de/en/2015/11/impact-mapping-and-continuous-validation/) by Niels Talens
 
 ### Tools
 
