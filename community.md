@@ -13,7 +13,6 @@ title: Community videos and articles
 * [Agile requirements management - end to end, from project goals to automated acceptance tests](http://www.slideshare.net/chassa/2012-1130alm-dayviennaslideshare), presentation by Christian Hassa at ALM Summit Vienna, November 2012
 * [Nordstrom Innovation Lab case study](http://www.agile42.com/en/blog/2012/09/26/effect-mapping-nordstrom-innovation-lab/) by Olaf Lewitz
 * [Agile Product Management using Effect Maps](http://skillsmatter.com/podcast/agile-testing/effect-maps), an experience report by Jenny Martin and Kate Warner from Aimia, with an introduction by Gojko Adzic.
-* [Agile product management using Impact Maps](http://gojko.net/papers/effect_maps.pdf), a whitepaper by Gojko Adzic
 * [On Effect Mapping and Pirate Metrics](http://www.lagerweij.com/2012/06/05/on-effect-mapping-and-pirate-metrics/) by Wouter Lagerweij      
 * [The Effect Backlog](http://kaeru.se/entry_9.php), by Martin Christensen
 * [Continuous Discovery - The grand experiment](http://www.kaeru.se/entry_18.php), by Martin Christensen
@@ -22,6 +21,7 @@ title: Community videos and articles
 * [How I Fell in Love With Impact Mapping...](http://www.prettyagile.com/2014/02/how-i-fell-in-love-with-impact-mapping.html) by Em Campbell-Pretty
 * [Japanese presentation of Impact Mapping](http://www.slideshare.net/hiranabe/impact-mapping-31215291) by Kenji Hiranabe
 * [Impact mapping and continuous validation](https://blog.codecentric.de/en/2015/11/impact-mapping-and-continuous-validation/) by Niels Talens
+* [Impact Map Cheat Sheet](http://craigsmith.id.au/2015/09/30/impact-map-cheat-sheet/) by Craig Smith
 
 ### Tools
 
