@@ -3,7 +3,7 @@ layout: about
 title: Rôle des cartes d'impact
 lang: fr
 ---
-<img src="/assets/3_gears.png" class="span4 pull-right">
+<img src="/assets/3_gears_n.png" class="span4 pull-right">
 
 Quand toutes les personnes impliquées dans une livraison comprennent de la même manière les objectifs, les impacts attendus et les hypothèses clées, les logiciels et les projets sont mieux cadrés et font l'objet de moins de gaspillage. C'est pourquoi les méthodes de développement orientées objectifs deviennent de plus en plus populaires en terme de bonnes pratiques.
  

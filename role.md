@@ -4,7 +4,7 @@ title: Role of impact maps
 ---
 
 {: .span4 .pull-right}
-![](/assets/3_gears.png)
+![](/assets/3_gears_n.png)
 
 When everyone involved in delivery understands the objectives, expected impacts and key assumptions in the same way, products and projects benefit from better focus and less waste. This is why goal-oriented requirements engineering methods are becoming increasingly popular in software academia. The current goal-oriented requirements engineering practices mostly focus on the early requirements phase – they end where most traditional specification techniques would start. This provides a big-picture view, but it also significantly undercuts the effectiveness of such techniques in modern software delivery.
 

@@ -1,10 +1,11 @@
 Source code for the impact mapping web site, served using Jekyll
 
-#todo
 
-- css cleanup
-  - use jekyll css builder, separate out special classes
-- new images 
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+# TODO
+
 - upgrade bootstrap/jquery
 - phone layouts
-- invite people to fork community pages

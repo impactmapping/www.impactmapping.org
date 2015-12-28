@@ -4,7 +4,7 @@ title: Example impact map
 ---
 
 {: .span8}
-![](/assets/im_example.png)
+![](/assets/gaming_example.png)
 
 The map illustrates a milestone of an online gaming platform. The key business goal for this milestone is to increase the number of active players to 1 million.
 

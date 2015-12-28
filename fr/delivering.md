@@ -10,7 +10,7 @@ Les logiciels sont partout aujourd'hui, et un nombre incalculable de ceux-ci son
 
 L'<a href="/fr/about.html">impact mapping</a> facilite ce processus, en le poussant encore plus loin. Plutôt que de simplement lier les caractéristiques du logiciel aux objectifs métiers au démarrage du projet, les cartes d'impact permettent de maintenir une feuille de route dynamique qui évolue avec les nouvelles informations en provenance du marché, tout en maintenant l'objectif en tête, en faisant des fonctionnalités et du périmètres des éléments secondaires. Vous visualisez des hypothèses, ce qui vous permet de changer de direction une fois que ces hypothèses sont avérées invalides. 
 
-<img src="/assets/assumptions.png" />
+<img src="/assets/assumptions_n.png" />
 
 L'<a href="/fr/example.html">exemple du système de jeux-vidéo en ligne</a> montre que l'objectif des invitations semi-automatiques est d'encourager les joueurs à inviter leurs amis. Nous partons du principe que livrer cette fonctionnalité va changer le comportement des joueurs. Une fois que la fonctionnalité est livrée, nous pouvons mesurer si cette supposition était vrai ou non. Si les joueurs invitent des amis, nous pouvons continuer à développer cette branche. Sinon, nous devrions nous arrêter là, analyser la situation, et essayer de faire quelque-chose d'autre à propos des invitations. 
 

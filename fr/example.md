@@ -4,7 +4,7 @@ layout: about
 title: Un exemple
 ---
 
-<img src="/assets/im_example.png" class="span8"/>
+<img src="/assets/gaming_example.png" class="span8"/>
 
 Cette carte illustre une étape clée d'une plateforme de jeux-vidéo. L'objectif métier principal pour cette étape est d'amener le nombre de joueurs à 1 million.
 

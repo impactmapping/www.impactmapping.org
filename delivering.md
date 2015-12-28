@@ -12,7 +12,7 @@ Clearly, current practices in the IT industry for managing project goals and com
 
 [Impact maps](about.html) facilitate this process, taking it even further. Instead of just connecting features to goals at the start of a project, impact maps allow us to maintain a dynamic roadmap that changes with our learning, keeping the goal in mind and making features and scope secondary to it. We visualise assumptions, which allows us to change direction once these assumptions are proven or discarded.
 
-![](/assets/assumptions.png)
+![](/assets/assumptions_n.png)
 
 The [online gaming system example](example.html) shows that the purpose of semi-automated invites is to support players inviting their friends. We assume that delivering that feature will change players' behaviour. Once the feature is delivered, we can track if the assumption was true or not. If players invite friends, we can keep investing in that branch. If not, we should stop, analyse the situation, and try to do something else about invitations.
 
