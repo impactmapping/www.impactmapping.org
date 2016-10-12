@@ -22,6 +22,7 @@ title: Community videos and articles
 * [Japanese presentation of Impact Mapping](http://www.slideshare.net/hiranabe/impact-mapping-31215291) by Kenji Hiranabe
 * [Impact mapping and continuous validation](https://blog.codecentric.de/en/2015/11/impact-mapping-and-continuous-validation/) by Niels Talens
 * [Impact Map Cheat Sheet](http://craigsmith.id.au/2015/09/30/impact-map-cheat-sheet/) by Craig Smith
+* [Deliver with Impact](http://www.slideshare.net/leenasn/deliver-with-impact-59626302) by Leena S N
 
 ### Tools
 
