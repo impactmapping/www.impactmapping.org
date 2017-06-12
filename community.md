@@ -2,7 +2,7 @@
 layout: page
 title: Community videos and articles
 ---
-
+* [How to create an impact map in 4 easy steps](https://uxpressia.com/blog/build-impact-map-4-easy-steps), article by Yuri Vedenin
 * [How to make an impact with your software product](http://www.dkrimmer.de/2014/11/21/how-to-make-an-impact-with-your-software-product/), article by Dominic Krimmer
 * [Introduction to Impact Mapping](https://www.youtube.com/watch?v=RznIi2WkJb0) -  video by Kenji Hiranabe
 * [Getting the most out of impact mapping](http://www.infoq.com/articles/most-impact-mapping), article by Gojko Adzic, Ingrid Domingues and Johan Berndtsson 
@@ -25,7 +25,7 @@ title: Community videos and articles
 * [Deliver with Impact](http://www.slideshare.net/leenasn/deliver-with-impact-59626302) by Leena S N
 
 ### Tools
-
+* [UXPressia](https://uxpressia.com), an online impact mapping, customer journey mapping and user persona tool
 * [EffectCup](http://effectcup.com/), an online mapping/backlog tool
 * [SpecLog](http://speclog.net), mapping/backlog tool for .NET
 * [MindMup](http://discover.mindmup.com)
