@@ -10,6 +10,7 @@ banner:
   content_align: left
   onload_image: fade-in
   onload_content: fade-right
+  image: /assets/images/lightbulb.png
 
 spotlight_a:
   style: 1
@@ -17,6 +18,7 @@ spotlight_a:
   content_align: left
   onscroll_image: fade-in
   title: Why use Impact Mapping?
+  image: /assets/images/chart.png
   description: |
     Impact mapping can help you build products and deliver projects that make an impact, 
     not just ship software.
@@ -27,6 +29,7 @@ spotlight_b:
   content_align: left
   onscroll_image: fade-in
   title: Who should use this technique?
+  image: /assets/images/key.png
   description: |
     Impact mapping is for product managers, business sponsors and senior technical leadership working
     with an iterative delivery method, who want to focus effort, restructure existing
@@ -38,6 +41,7 @@ spotlight_c:
   content_align: left
   onscroll_image: fade-in
   title: How does it help?
+  image: /assets/images/bicycle.png
   description: | 
     Impact mapping prevents organisations from getting lost while building software, by clearly 
     communicating assumptions, helping teams align their activities with overall 
@@ -49,6 +53,7 @@ spotlight_d:
   content_align: left
   onscroll_image: fade-in
   title: What is it?
+  image: /assets/images/compas.png
   description: |
     Impact mapping is a collaborative lightweight planning technique, based on user interaction design 
     and mind mapping, which helps delivery teams and stakeholders visualise roadmaps, 

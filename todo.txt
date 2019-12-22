@@ -1,0 +1,26 @@
+about.md
+delivering.md
+drawing.md
+example.md
+role.md
+
+book.md
+book_credit.md
+book_foreword.md
+book_index.md
+book_poster.md
+book_res.md
+book_toc.md
+book_why_care.md
+community.md
+consultants.md
+
+
+index.md
+related.md
+
+training.md
+
+page headers with better navigation
+
+index.md -> double-check links and resources

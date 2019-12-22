@@ -1,6 +1,6 @@
 ---
 title: What is impact mapping?
-layout: about
+layout: page
 ---
 
 Impact mapping is a strategic planning technique. It prevents organisations from getting lost while building products and delivering projects, by clearly communicating assumptions, helping teams align their activities with overall business objectives and make better roadmap decisions.

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: Delivering business goals, not just software features
 ---
 
