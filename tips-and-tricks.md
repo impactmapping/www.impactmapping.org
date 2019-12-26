@@ -5,7 +5,42 @@ title: Tips and tricks for Impact mapping
 
 Know an additional resource that should be on this page? Add it directly on [GitHub](https://github.com/impactmapping/www.impactmapping.org/blob/master/tips-and-tricks.md)
 
-## Articles
+
+## Practical usage
+
+* [Impact Mapping team objectives](https://nomad8.com/articles/impact-mapping-team-objectives/) by Anthony Boobier
+* [Product strategy – Impact mapping in practice](https://mozaicworks.com/product-management/impact-mapping-in-practice/) by Alexandru Bolboaca 
+* [Impact mapping at Codurance](https://codurance.com/2015/01/09/impact-mapping/) by Mashooq Badar
+* [Requirements Elicitation Using Impact Mapping](http://satalyst.com/requirements-elicitation-using-impact-mapping/)
+* [Escaping Solution-First Development through Impact Mapping](https://medium.com/kevin-on-code/escaping-solution-first-development-through-impact-mapping-663b2c6d0ea8) by Kevin Albrecht
+* [Strategy: Using Impact Maps to increase e-commerce basket size](http://www.fluxus.io/article/using-impact-maps-increase-e-commerce-basket-size) by Rob Knight
+* [Impact mapping using rings](https://niksilver.com/2017/03/28/impact-mapping-using-rings/) by Nik Silver
+* [How to Use Impact Mapping to Elicit Insights and Create Value in Early Discovery Conversations](https://blog.bondsai.io/sales/how-use-impact-mapping-elicit-insights-create-value-early-discovery-conversations/) by Jakob Persson
+
+
+## Combining with other techniques
+
+* [Strategy Deployment and Impact Mapping](https://availagility.co.uk/2017/01/31/strategy-deployment-and-impact-mapping/) by Carl Scotland
+* [Impact Mapping and OpenStrategies PRUB-thinking](https://ianjseath.wordpress.com/2017/04/10/impact-mapping-and-openstrategies-prub-thinking/) by Ian J Seath
+* [Lean Change Canvas combined with Impact Mapping](http://mrsnow76.blogspot.com/2013/04/lean-change-canvas-combined-with-impact.html) by Sven Schnee
+* [Impact Mapping with Innovation Games](https://www.youtube.com/watch?v=o9L19ty12xs) from YOW! Singapore 2017 by Gojko Adzic
+* [Impact Mapping and Story Mapping](https://www.youtube.com/watch?v=yQzIfKzU9PI) WeAreDevelopers Conference 2017 by Christian Hassa
+* [Impact maps and story maps, delivering what matters](https://www.slideshare.net/chassa/2014-0618srdimpact-mapsstorymapsen) by Christian Hassa
+* [Extending Impact Mapping to Gain Better Product Insights](https://www.scrum.org/resources/blog/extending-impact-mapping-gain-better-product-insights) by Kurt Bittner
+* [Combining OKR with Impact Mapping](https://www.linkedin.com/pulse/combing-okr-impact-mapping-tomek-dabrowski) by Tomek Dabrowski
+* [How to Stay on Course During Product Discovery](https://productcraft.com/best-practices/how-to-stay-on-course-during-product-discovery/) by Tim Herbig 
+
+## Research papers 
+
+* [Towards value-oriented product development roadmapping](https://helda.helsinki.fi/bitstream/handle/10138/159190/thesis.pdf) by Juuso Hyvönen
+* [Impact Methods for Making a Change](https://www.ida.liu.se/~matar63/impact_mapping_iasdr19-prepub.pdf) by  Jakob Persson,  Mattias Arvola and Stefan Holmlid 
+* [Achieving business impact with IT: A qualitative study of the practice and theory of driving change with technology, interaction and service design](http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1140702&dswid=-3562) by Jakob Persson
+
+## Presentation slides
+
+* [Impact Mapping at Scale webinar](https://www.scrumalliance.org/why-scrum/community-webinars/webinar-replays/collaboration-at-scale-webinar-series/impact-mapping-at-scale) from Scrum Alliance, presented by Christian Hassa, Nigel Thurlow and Luke Hohmann
+
+## Related web articles
 
 * [The Evolution of Impact Mapping](http://www.inuse.se/blogg/evolution-impact-mapping/) by Ingrid Domingues
 * [The many faces of Impact Mapping](http://www.inuse.se/blogg/many-faces-impact-mapping/)  by Ingrid Domingues
@@ -21,34 +56,4 @@ Alexander Byndyu
 * [Impact mapping - Modern UX](http://modernux.se/docs/impactmapping/) by Martin Christensen
 * [Impact Mapping: How to focus on outcomes in product management](https://miro.com/blog/impact-mapping/) by Tim Herbig
 * [Time for a Change in Principles?](https://nomad8.com/articles/time-for-a-change-in-principles/) by Tony O'Halloran
-
-
-## Practical usage
-
-* [Impact Mapping team objectives](https://nomad8.com/articles/impact-mapping-team-objectives/) by Anthony Boobier
-* [Product strategy – Impact mapping in practice](https://mozaicworks.com/product-management/impact-mapping-in-practice/) by Alexandru Bolboaca 
-* [Impact mapping at Codurance](https://codurance.com/2015/01/09/impact-mapping/) by Mashooq Badar
-* [Requirements Elicitation Using Impact Mapping](http://satalyst.com/requirements-elicitation-using-impact-mapping/)
-* [Escaping Solution-First Development through Impact Mapping](https://medium.com/kevin-on-code/escaping-solution-first-development-through-impact-mapping-663b2c6d0ea8) by Kevin Albrecht
-* [Strategy: Using Impact Maps to increase e-commerce basket size](http://www.fluxus.io/article/using-impact-maps-increase-e-commerce-basket-size) by Rob Knight
-* [Impact mapping using rings](https://niksilver.com/2017/03/28/impact-mapping-using-rings/) by Nik Silver
-
-
-## Combining with other techniques
-
-* [Strategy Deployment and Impact Mapping](https://availagility.co.uk/2017/01/31/strategy-deployment-and-impact-mapping/) by Carl Scotland
-* [Impact Mapping and OpenStrategies PRUB-thinking](https://ianjseath.wordpress.com/2017/04/10/impact-mapping-and-openstrategies-prub-thinking/) by Ian J Seath
-* [Lean Change Canvas combined with Impact Mapping](http://mrsnow76.blogspot.com/2013/04/lean-change-canvas-combined-with-impact.html) by Sven Schnee
-* [Impact Mapping with Innovation Games](https://www.youtube.com/watch?v=o9L19ty12xs) from YOW! Singapore 2017 by Gojko Adzic
-* [Impact Mapping and Story Mapping](https://www.youtube.com/watch?v=yQzIfKzU9PI) WeAreDevelopers Conference 2017 by Christian Hassa
-
-## Research papers 
-
-* [Towards value-oriented product development roadmapping](https://helda.helsinki.fi/bitstream/handle/10138/159190/thesis.pdf) by Juuso Hyvönen
-* [Impact Methods for Making a Change](https://www.ida.liu.se/~matar63/impact_mapping_iasdr19-prepub.pdf) by  Jakob Persson,  Mattias Arvola and Stefan Holmlid 
-* [Achieving business impact with IT: A qualitative study of the practice and theory of driving change with technology, interaction and service design](http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1140702&dswid=-3562) by Jakob Persson
-
-## Presentation slides
-
-* [Impact Mapping at Scale webinar](https://www.scrumalliance.org/why-scrum/community-webinars/webinar-replays/collaboration-at-scale-webinar-series/impact-mapping-at-scale) from Scrum Alliance, presented by Christian Hassa, Nigel Thurlow and Luke Hohmann
 
