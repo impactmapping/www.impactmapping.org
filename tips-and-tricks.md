@@ -16,7 +16,11 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Strategy: Using Impact Maps to increase e-commerce basket size](http://www.fluxus.io/article/using-impact-maps-increase-e-commerce-basket-size) by Rob Knight
 * [Impact mapping using rings](https://niksilver.com/2017/03/28/impact-mapping-using-rings/) by Nik Silver
 * [How to Use Impact Mapping to Elicit Insights and Create Value in Early Discovery Conversations](https://blog.bondsai.io/sales/how-use-impact-mapping-elicit-insights-create-value-early-discovery-conversations/) by Jakob Persson
-
+* [Impact mapping for the ODS migration project, British NHS](http://joemc.gr/2013/05/06/impact-mapping-on-ods/)
+* [Capture Knowledge and Make Decisions Transparent in a Design Thinking Process](http://www.infoq.com/articles/knowledge-design-thinking) by  Matthias Edinger and J&uuml;rgen Wagner
+* [Presentation on effect mapping / impact mapping techniques, with real-world examples, given at IA Summit 11 in Denver, Colorado, 2011](http://www.slideshare.net/Jonas_inUse/effect-mapping-a-better-way-to-get-really-usable-results-out-of-it-projects)
+* [Agile requirements management - end to end, from project goals to automated acceptance tests](http://www.slideshare.net/chassa/2012-1130alm-dayviennaslideshare), presentation by Christian Hassa at ALM Summit Vienna, November 2012
+* [Impact Mapping - now helping Indonesian Hospitals](http://www.marcusoft.net/2014/02/HospitalImpactMap.html) by Marcus Hammarberg 
 
 ## Combining with other techniques
 
@@ -29,6 +33,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Extending Impact Mapping to Gain Better Product Insights](https://www.scrum.org/resources/blog/extending-impact-mapping-gain-better-product-insights) by Kurt Bittner
 * [Combining OKR with Impact Mapping](https://www.linkedin.com/pulse/combing-okr-impact-mapping-tomek-dabrowski) by Tomek Dabrowski
 * [How to Stay on Course During Product Discovery](https://productcraft.com/best-practices/how-to-stay-on-course-during-product-discovery/) by Tim Herbig 
+* [On Effect Mapping and Pirate Metrics](http://www.lagerweij.com/2012/06/05/on-effect-mapping-and-pirate-metrics/) by Wouter Lagerweij      
 
 ## Research papers 
 

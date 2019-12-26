@@ -4,7 +4,7 @@ title: Related topics and techniques
 ---
 
    
-###InUse Effect Mapping
+### InUse Effect Mapping
           
 * [Effect Managing IT](http://www.amazon.com/gp/product/8763001764/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=8763001764&linkCode=as2&tag=swingwiki-20) by Mijo Balic and Ingrid Ottersten, Copenhagen Business School 2007, ISBN 978-8763001762
 * [InUse web site](http://inuse.se/)
