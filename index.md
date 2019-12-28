@@ -54,7 +54,22 @@ spotlights:
       organisational goals supported by those impacts on another side. Connect the
       related items visually to create a mind map. Prioritise
       from the goals down to impacts.
-
+  - style: 1
+    id: fourth
+    orient: left
+    content_align: left
+    onscroll_image: fade-in
+    title: What do impact maps look like? 
+    image: /assets/gaming_example.png
+    link: /example.html
+    description: | 
+      Impact maps usually take the form of a mind map, or a hierarchical outline. Structuring
+      information as a mind map allows you to describe many different
+      dimensions of a product milestone plan in a single visualisation. Use
+      colours, letter type and size, position (hierarchical,
+      vertical/horizontal and relative), outline shades and shapes and
+      additional symbols such as asterisks to describe importance, priority,
+      grouping or impact.
 resources:
   style: 1
   size: medium
@@ -63,27 +78,33 @@ resources:
   description: Learn more about impact mapping, download resources and engage with the community using the links below
   sections:
     - title: For beginners
+      fa-icon: info
       links:
-        - url: /intro-resources.html
-          text: Read introductory articles and watch videos about impact mapping
         - url: books.html
           text: Get the book
+        - url: /intro-resources.html
+          text: Read introductory articles and watch videos about impact mapping
+    - title: For practitioners
+      fa-icon: rocket
+      links:
+        - url: /tips-and-tricks.html
+          text: Go beyond the basics - read tips and tricks for effective impact maps 
+        - url: https://groups.google.com/d/forum/impact-mapping/subscribe
+          text: Join the discussion list to share your experiences
+    - title: For consultants
+      fa-icon: bullhorn
+      links:
+        - text: Get royalty-free artwork for presentations
+          url: /consultants.html
+        - text: Introduce impact mapping using open-source workshop materials
+          url: https://github.com/impactmapping/open-impact-mapping-workshop
+    - title: Need more help?
+      fa-icon: question
+      links:
         - url: https://groups.google.com/d/forum/impact-mapping/subscribe
           text: Ask questions and get feedback on your ideas
         - url: http://neuri.co.uk/mentoring.html
           text: Get mentoring
-    - title: For practitioners
-      links:
-        - url: /tips-and-tricks.html
-          text: Go beyond the basics - read tips and tricks for effective impact maps 
-        - url: /related.html
-          text: Learn more about related ideas and topics
-        - url: https://groups.google.com/d/forum/impact-mapping/subscribe
-          text: Join the discussion list to share your experiences
-    - title: For consultants
-      links:
-        - text: Get royalty-free artwork for presentations
-          url: consultants.html
 ---
 
 
