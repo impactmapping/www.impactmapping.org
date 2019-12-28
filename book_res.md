@@ -3,21 +3,21 @@ title: Resources from the Impact Mapping book
 layout: book
 ---
 
-### Essential introduction to background techniques
+## Essential introduction to background techniques
 
 * _Balic07_ [Effect Managing IT](http://www.amazon.com/gp/product/8763001764/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=8763001764&linkCode=as2&tag=swingwiki-20) by Mijo Balic and Ingrid Ottersten, Copenhagen Business School 2007, ISBN 978-8763001762
 * _Brinkerhoff94_ [ The Learning Alliance: Systems Thinking in Human Resource Development](http://www.amazon.com/gp/product/1555427111/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1555427111&linkCode=as2&tag=swingwiki-20), Robert O. Brinkerhoff, Jossey-Bass 1997, ISBN 1555427111
 * _Gilb05_ [Competitive Engineering: A Handbook For Systems Engineering, Requirements Engineering, and Software Engineering Using Planguage](http://www.amazon.com/gp/product/0750665076/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0750665076&linkCode=as2&tag=swingwiki-20), Tom Gilb, Butterworth-Heinemann 2005, ISBN 978-0750665070
 * _Matts11_ [Feature Injection: three steps to success](http://www.infoq.com/articles/feature-injection-success) by Chris Matts and Gojko Adzic
 
-### References for the numbers from the introduction
+## References for the numbers from the introduction
 
 * [Troubled &pound;12bn NHS IT system to be scaled back, BBC News, 6 December 2009](http://news.bbc.co.uk/1/hi/8397854.stm)
 * [NHS pulls the plug on its £11bn IT system, The Independent, 3 August 2011](http://www.independent.co.uk/life-style/health-and-families/health-news/nhs-pulls-the-plug-on-its-11bn-it-system-2330906.html)
 * [Costs of US piloted programs by Claude Lafleur, 2010](http://www.thespacereview.com/article/1579/1)
 * Also see [_McManus08_]
       
-### Other books and online articles
+## Other books and online articles
 
 * _Adzic12_ [Splitting user stories: the hamburger method, Gojko Adzic](http://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) 
 * _Berkun05_ [Art of Project Management](http://www.amazon.com/gp/product/0596007868/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596007868&linkCode=as2&tag=swingwiki-20), Scott Berkun,O'Reilly 2005, ISBN 978-0596007867
@@ -43,8 +43,3 @@ layout: book
 * _West11_ [Water-Scrum-Fall is the reality of Agile for most organisations today](http://www.forrester.com/WaterScrumFall+Is+The+Reality+Of+Agile+For+Most+Organizations+Today/fulltext/-/E-RES60109?docid=60109), Dave West
 * _Yu11_ [Social Modeling for Requirements Engineering](http://www.amazon.com/gp/product/0262240556/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262240556&linkCode=as2&tag=swingwiki-20), Eric Yu, Paolo Giorgini, Neil Maiden, John Mylopoulos; MIT Press 2011, ISBN 978-0262240550
 
-
-## Resources on this web site that are not mentioned in the book
-
-* [Community articles, videos and tools](/community.html)
-* [Related techniques](/related.html)

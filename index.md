@@ -71,41 +71,6 @@ spotlights:
       vertical/horizontal and relative), outline shades and shapes and
       additional symbols such as asterisks to describe importance, priority,
       grouping or impact.
-resources:
-  style: 1
-  size: medium
-  onscroll: fade-in
-  title: Resources
-  description: Learn more about impact mapping, download resources and engage with the community using the links below
-  sections:
-    - title: For beginners
-      fa-icon: info
-      links:
-        - url: books.html
-          text: Get the book
-        - url: /intro-resources.html
-          text: Read introductory articles and watch videos about impact mapping
-    - title: For practitioners
-      fa-icon: rocket
-      links:
-        - url: /tips-and-tricks.html
-          text: Go beyond the basics - read tips and tricks for effective impact maps 
-        - url: https://groups.google.com/d/forum/impact-mapping/subscribe
-          text: Join the discussion list to share your experiences
-    - title: For consultants
-      fa-icon: bullhorn
-      links:
-        - text: Get royalty-free artwork for presentations
-          url: /consultants.html
-        - text: Introduce impact mapping using open-source workshop materials
-          url: https://github.com/impactmapping/open-impact-mapping-workshop
-    - title: Need more help?
-      fa-icon: question
-      links:
-        - url: https://groups.google.com/d/forum/impact-mapping/subscribe
-          text: Ask questions and get feedback on your ideas
-        - url: http://neuri.co.uk/mentoring.html
-          text: Get mentoring
 ---
 
 

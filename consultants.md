@@ -11,6 +11,8 @@ title: Consultants and trainers
 
 The poster is a nice summary of impact map structure and key impact mapping facilitation techniques. You can download a full-quality print size poster (A3), to give to your clients, provide as a hand-out after workshops or just keep on a wall as a reminder during team exercises.
 
+If you don't want to print it yourself, you can buy a printed version from [CafePress](http://www.cafepress.com/gojko.703344325).
+
 ## Impact mapping cheat-sheet
 
 
