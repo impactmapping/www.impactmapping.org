@@ -34,6 +34,7 @@ spotlights:
     onscroll_image: fade-in
     title: Who should use this technique?
     image: /assets/images/bicycle.png
+    link: /facilitation.html
     description: |
       Impact mapping is for product managers, business sponsors and senior technical leadership working
       with iterative software delivery, who want to focus effort, restructure existing
