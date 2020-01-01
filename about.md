@@ -1,5 +1,6 @@
 ---
 title: Why use Impact Mapping?
+excerpt: Impact mapping prevents organisations from getting lost while building products and delivering projects.
 layout: page
 ---
 

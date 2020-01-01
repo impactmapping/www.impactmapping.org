@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Drawing impact maps
+excerpt: An impact map is a visualisation of  scope and underlying assumptions, created collaboratively by senior technical and business people.
 ---
 
 An impact map is a visualisation of  scope and underlying assumptions, created collaboratively by senior technical and business people. It is a mind-map grown during a discussion facilitated by considering the following four aspects:

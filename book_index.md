@@ -1,8 +1,9 @@
 ---
 layout: book
 title: Index
+excerpt: Impact Mapping, book index
+content_style: "white-space: pre"
 ---
-{: .index}
 5-Whys technique 38
 actors  7, 50, 65, 66
 actors, behaviour 9, 19, 30

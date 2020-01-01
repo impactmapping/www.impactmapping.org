@@ -1,6 +1,7 @@
 ---
 title: Resources from the Impact Mapping book
 layout: book
+excerpt: Bibliography and links from Impact Mapping
 ---
 
 ## Essential introduction to background techniques

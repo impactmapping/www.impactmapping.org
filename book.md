@@ -1,6 +1,7 @@
 ---
 layout: book
 title: "Impact Mapping: Making a big impact with software products and projects"
+excerpt: "Book by Gojko Adzic. Published by Provoking Thoughts, 1 October 2012.  ISBN: 978-0-9556836-4-0"
 ---
 
 ![](/assets/cover500.png)

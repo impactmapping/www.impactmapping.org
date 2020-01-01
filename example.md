@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Example impact maps
+excerpt: Impact maps show assumptions and a connection between business goals, impacts on users and stakeholders, and team deliverables.
 ---
 
 Impact maps show assumptions and a connection between business goals, impacts on users and stakeholders, and team deliverables. They usually take the form of a mind map, or a hierarchical outline. Structuring information as a mind map allows you to describe many different dimensions of a product milestone plan in a single visualisation. Use colours, letter type and size, position (hierarchical, vertical/horizontal and relative), outline shades and shapes and additional symbols such as asterisks to describe importance, priority, grouping or impact.

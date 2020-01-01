@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Facilitating impact mapping
+excerpt: Using impact maps for setting product vision, focusing delivery or reframing problems
 ---
 
 You can use impact maps for several different purposes. Depending on the outcome you want to achieve, you will need to engage different groups and at different times. Here is a quick summary of who should participate in an impact mapping session, and when they need to participate.

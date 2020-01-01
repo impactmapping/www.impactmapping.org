@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Introductory web resources
+excerpt: Videos, articles and presentations about Impact Mapping
 ---
 
 Know an additional resource that should be on this page? Add it directly on [GitHub](https://github.com/impactmapping/www.impactmapping.org/blob/master/intro-resources.md)

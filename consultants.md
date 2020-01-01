@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Consultants and trainers
+title: Resources for consultants and trainers
+excerpt: resources for teaching and promoting Impact Mapping
 ---
 
 ## A3 Poster

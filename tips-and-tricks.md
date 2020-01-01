@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tips and tricks for Impact mapping
+excerpt: Practical usage of impact maps, combining with other techniques and more...
 ---
 
 Know an additional resource that should be on this page? Add it directly on [GitHub](https://github.com/impactmapping/www.impactmapping.org/blob/master/tips-and-tricks.md)
