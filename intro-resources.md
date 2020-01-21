@@ -54,6 +54,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Developing working software using Impact Mapping](https://www.metronom.com/blog/2019/02/14/Developing-working-software-using-‘Impact-Mapping’) by Thomas Koch
 * [Make Impact with Impact Mapping](https://stfalcon.com/en/blog/post/impact-mapping-for-product-development) by Mariia Halytska
 * [Impact Mapping & Agile Development](https://ffwagency.com/learning/blog/impact-mapping-agile-development) by Tassos Koutlas
+* [Product Management 101: Product Discovery and Impact Mapping Technique](https://blog.usejournal.com/product-management-101-product-discovery-and-impact-mapping-technique-fd623968fc56)
 
 ### Spanish
 
