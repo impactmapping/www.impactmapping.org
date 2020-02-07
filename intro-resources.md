@@ -9,6 +9,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 ## Videos
 
 * [Impact mapping](https://vimeo.com/195949530), keynote by Gojko Adzic from Italian Agile Days 2016
+* [Impact Mapping for Graphical Strategic Mapping](https://www.youtube.com/watch?v=pmSS69Dh71Q) by Thomas Heisey and Sergio Canales Espinoza
 * [Maximum impact, minimum effort](https://www.youtube.com/watch?v=SVo3Tzru9o4) from JFokus 2019 by Gojko Adzic
 * [The art of Impact Mapping](https://www.youtube.com/watch?v=y4Rj05YVg_E) by SkyScanner
 * [Jetez vos roadmaps: ayez de l'impact map!](https://www.youtube.com/watch?v=6phmeuUQcDs) from DevoxxFR 2019 by F. Leroy
