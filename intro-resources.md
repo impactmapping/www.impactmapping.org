@@ -29,6 +29,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [The template for Impact Maps is here!](http://www.inuseexperience.com/blog/template-impact-maps-here/) by Ingrid Domingues
 * [Impact mapping in one page](http://itscertainlyuncertain.blogspot.com/2013/12/impact-mapping-on-one-page.html)
 * [Impact mapping template](https://miro.com/templates/impact-mapping/) from Miro
+* [Impact Mapping Cheat Sheet](https://www.agilist.ch/wp-content/uploads/agilist.-impact-mapping-cheatcheet.pdf) in German, by [Peter Zurkirchen](https://twitter.com/PitZurkirchen)
 
 ## Web Articles 
 
