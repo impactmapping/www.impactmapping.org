@@ -23,6 +23,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Agile requirements management - end to end, from project goals to automated acceptance tests](http://www.slideshare.net/chassa/2012-1130alm-dayviennaslideshare), presentation by Christian Hassa at ALM Summit Vienna, November 2012
 * [Impact Mapping - now helping Indonesian Hospitals](http://www.marcusoft.net/2014/02/HospitalImpactMap.html) by Marcus Hammarberg 
 * [6 Cases When You Need to Create an Impact Map](https://uxpressia.com/blog/6-cases-when-create-impact-map) by Yuri Vedenin
+* [Cause & Effect and Product Risk](http://tynerblain.com/blog/2019/02/04/cause-effect-and-product-risk/) by Scott Sehlhorst
 
 ## Combining with other techniques
 
