@@ -58,7 +58,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 Alexander Byndyu
 * [Achieve your goals with the power of Impact Mapping](https://www.tonypiper.coach/articles/2017/6/30/achieve-your-goals-with-impact-mapping) by Tony Piper
 * [Large organisations find Lean UX hard, it’s not them, it’s us! Part Three - Extend Your Remit](http://www.cultivatehq.com/posts/lean-ux-extend-your-remit/) by Spencer Turner
-* [How I Fell in Love With Impact Mapping...](http://www.prettyagile.com/2014/02/how-i-fell-in-love-with-impact-mapping.html) by Em Campbell-Pretty
+* [How I Fell in Love With Impact Mapping...](https://prettyagile.com/2014/02/how-i-fell-in-love-with-impact-mapping/) by Em Campbell-Pretty
 * [Step-by-Step: An Agile Product Validation Process Using Impact Mapping](https://stxnext.com/blog/2017/07/05/step-step-product-validation-using-impact-mapping/) by Daniel Kaszuba
 * [Impact Mapping for Business Outcomes](https://elabor8.com.au/impact-mapping-for-business-outcomes/) by Daniel Schrader
 * [Impact mapping - Modern UX](http://modernux.se/docs/impactmapping/) by Martin Christensen
