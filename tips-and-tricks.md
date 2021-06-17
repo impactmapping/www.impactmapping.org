@@ -8,7 +8,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 
 
 ## Practical usage
-
+* [Meeting policy intent and user needs at the same time](https://dfedigital.blog.gov.uk/2021/06/17/policy-intent/) by Isabelle Andrews, UK Gov DfE Digital and Technology
 * [Impact Mapping team objectives](https://nomad8.com/articles/impact-mapping-team-objectives/) by Anthony Boobier
 * [Product strategy – Impact mapping in practice](https://mozaicworks.com/product-management/impact-mapping-in-practice/) by Alexandru Bolboaca 
 * [Impact mapping at Codurance](https://codurance.com/2015/01/09/impact-mapping/) by Mashooq Badar

@@ -21,6 +21,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Impact Mapping - Visualizing impacts of your software with a demo with Astah](https://www.youtube.com/watch?v=RznIi2WkJb0)
 * [Impact Mapping As Easy As Pie](https://www.youtube.com/watch?v=_rjB5X3XY4E&feature=youtu.be) by Marcus Hammarberg, (read the [write-up as well](https://www.boynux.com/impact-mapping-as-easy-as-pie/))
 * [Impact Mapping: What’s Your Software Development Worth?](https://m.youtube.com/watch?v=oqsFdmvj3hM)
+* [Impact mapping - An antidode to the feature factory?](https://www.youtube.com/watch?v=aP6KqVuo9Jk) by TheAgileBroadcast
 
 ## Cheat-sheets and templates
 
@@ -30,6 +31,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Impact mapping in one page](http://itscertainlyuncertain.blogspot.com/2013/12/impact-mapping-on-one-page.html)
 * [Impact mapping template](https://miro.com/templates/impact-mapping/) from Miro
 * [Impact Mapping Cheat Sheet](https://www.agilist.ch/wp-content/uploads/agilist.-impact-mapping-cheatcheet.pdf) in German, by [Peter Zurkirchen](https://twitter.com/PitZurkirchen)
+* [Impact Mapping - a cheatsheet](https://tomd.xyz/impact-mapping/) by Tom Donohue
 
 ## Web Articles 
 
