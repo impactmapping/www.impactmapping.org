@@ -2,6 +2,7 @@
 layout: page
 title: Community videos and articles
 ---
+* [Meeting policy intent and user needs at the same time](https://dfedigital.blog.gov.uk/2021/06/17/policy-intent/) by Isabelle Andrews, UK Gov DfE Digital and Technology
 * [How to create an impact map in 4 easy steps](https://uxpressia.com/blog/build-impact-map-4-easy-steps), article by Yuri Vedenin
 * [How to make an impact with your software product](http://www.dkrimmer.de/2014/11/21/how-to-make-an-impact-with-your-software-product/), article by Dominic Krimmer
 * [Introduction to Impact Mapping](https://www.youtube.com/watch?v=RznIi2WkJb0) -  video by Kenji Hiranabe
