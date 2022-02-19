@@ -1,6 +1,7 @@
 ---
 layout: book
-title: Foreword
+title: Foreword to Impact Mapping
+excerpt: Impact Mapping, book foreword by Tom Gilb
 ---
 
 With few exceptions, software development work has long been separate from other parts of the organizations it supports. The rest of the organization did not understand software and too often, the development organization was not tightly attuned to the business of the rest of the company. Difficulty communicating on the one hand led far too often to building the wrong thing, or at best, not quite the right thing and on the other hand, led to wasteful management and governance practices. Agile approaches have helped here by enabling rapid feedback cycles to correct mistakes before there is no budget left to do so.
@@ -21,5 +22,4 @@ The impact map approach helps you to focus on understanding and evolving a respo
 
 Design is about finding and trying possible solutions that might cause the desired impact. The critical component is neither the cause nor the effect but rather proving the validity of the assumption that links them. Assumptions validated by consistent data from actual experiments enable the creation of real value. An impact map connects candidate causes with desired effects. It is a map of assumptions connecting causes and effects. It helps you to find the right questions, which is much more difficult than finding good answers.
 
-{: .pull-right}
-_ -- Tom Poppendieck_
+-- Tom Poppendieck

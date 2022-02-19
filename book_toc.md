@@ -1,6 +1,8 @@
 ---
 layout: book
 title: Table of Contents
+excerpt: Impact Mapping book, Table of contents
+content_style: "white-space: pre"
 ---
 
 vi [Foreword](book_foreword.html)  

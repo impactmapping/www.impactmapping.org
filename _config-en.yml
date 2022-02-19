@@ -1,0 +1,45 @@
+title: Impact Mapping
+description: Impact Mapping community web site
+copyright: > 
+  Copyright &copy; Neuri Consulting LLP. Illustrations 
+  are licensed from Shutterstock or <a href="https://gojko.net">Gojko Adzic</a>.
+  Except where otherwise noted, the content in this site is 
+  licensed under <a href="http://creativecommons.org/licenses/by/4.0/legalcode">
+  Creative Commons Attribution 4.0 International License
+  </a>, and available from 
+  <a href="https://github.com/impactmapping/www.impactmapping.org">GitHub</a>.
+  Videos built using <a href="https://www.narakeet.com">Narakeet</a>.
+labels:
+  learn_more: Learn More
+resources:
+  title: Resources
+  description: Learn more about impact mapping, download resources and engage with the community using the links below
+  sections:
+    - title: For beginners
+      fa-icon: info
+      links:
+        - url: /book.html
+          text: Get the book
+        - url: /intro-resources.html
+          text: Read introductory articles and watch videos about impact mapping
+    - title: For practitioners
+      fa-icon: rocket
+      links:
+        - url: /tips-and-tricks.html
+          text: Go beyond the basics - read tips and tricks for effective impact maps 
+        - url: https://groups.google.com/d/forum/impact-mapping/subscribe
+          text: Join the discussion list to share your experiences
+    - title: For consultants
+      fa-icon: bullhorn
+      links:
+        - text: Get royalty-free artwork for presentations
+          url: /consultants.html
+        - text: Introduce impact mapping using open-source workshop materials
+          url: https://github.com/impactmapping/open-impact-mapping-workshop
+    - title: Need more help?
+      fa-icon: question
+      links:
+        - url: https://groups.google.com/d/forum/impact-mapping/subscribe
+          text: Ask questions and get feedback on your ideas
+        - url: http://neuri.co.uk/mentoring.html
+          text: Get mentoring
