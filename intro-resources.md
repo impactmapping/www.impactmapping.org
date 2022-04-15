@@ -11,7 +11,6 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Impact mapping](https://vimeo.com/195949530), keynote by Gojko Adzic from Italian Agile Days 2016
 * [Impact Mapping for Graphical Strategic Mapping](https://www.youtube.com/watch?v=pmSS69Dh71Q) by Thomas Heisey and Sergio Canales Espinoza
 * [Maximum impact, minimum effort](https://www.youtube.com/watch?v=SVo3Tzru9o4) from JFokus 2019 by Gojko Adzic
-* [The art of Impact Mapping](https://www.youtube.com/watch?v=y4Rj05YVg_E) by SkyScanner
 * [Jetez vos roadmaps: ayez de l'impact map!](https://www.youtube.com/watch?v=6phmeuUQcDs) from DevoxxFR 2019 by F. Leroy
 * [Business Modelling - Impact Mapping: Tools and Techniques](https://www.youtube.com/watch?v=GhvnBjQsRfI) from The Sustainable PM
 * [DCSUG - Impact Mapping: How to Make Value-Driven Prioritization a Reality](https://www.youtube.com/watch?v=hZ9ucDwbh04) from DCSUG 2017 by Mathias Eifert
@@ -40,9 +39,9 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [What It Is Impact Mapping?](https://www.kbp.media/impact-mapping/) by Kent McDonald
 * [Introduction to Impact mapping](http://modernux.se/docs/impactmapping/) by Martin Christensen
 * [Impact Mapping: Chart Your Course to a Compelling Product](https://www.dmi.org/news/417820/Impact-Mapping-Chart-Your-Course-for-a-Compelling-Project.htm) by Deborah Wyse
-* [Impact Mapping](http://selleo.com/blog/software-outsourcing/impact-mapping-technique-turning-business-goals-into-deliverables/) by Radosław Jędryszczak
-* [Create an impact map for your product/project](https://www.mindsettlers.com/practice/5wGK7Rw7HqoG0Uakq0Ykq2) by Silvio Corti
-* [Impact mapping meets scaled agile](https://www.rechartedterritory.com/impact-mapping-meets-scaled-agile/) by  Lisa Schlecht
+* [Impact Mapping](http://selleo.com/blog/software-outsourcing/impact-mapping-technique-turning-business-goals-into-deliverables/) by Radosław Jędryszczak, [Archived](https://web.archive.org/web/20161013025958/http://selleo.com/blog/software-outsourcing/impact-mapping-technique-turning-business-goals-into-deliverables/)
+* [Create an impact map for your product/project](https://www.mindsettlers.com/practice/5wGK7Rw7HqoG0Uakq0Ykq2) by Silvio Corti, [Archived](https://web.archive.org/web/20201129124103/https://www.mindsettlers.com/practice/5wGK7Rw7HqoG0Uakq0Ykq2)
+* [Impact mapping meets scaled agile](https://www.rechartedterritory.com/impact-mapping-meets-scaled-agile/) by  Lisa Schlecht, [Archived](https://web.archive.org/web/20170305043003/https://www.rechartedterritory.com/impact-mapping-meets-scaled-agile/)
 * [Problem solving with Impact Mapping](https://www.agileconnection.com/article/problem-solving-impact-mapping) by Lisa Crispin
 * [Visualising your backlog: Impact Mapping](http://www.jamieclouting.co.uk/2013/05/visualising-your-backlog-impact-mapping/) by Jamie Clouting
 * [Using impact mapping to help your team experiment](https://opensource.com/open-organization/17/6/experiment-impact-mapping) by Justin Holmes
@@ -55,7 +54,6 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Impact Mapping - how to use it](http://www.plays-in-business.com/impact-mapping/) by Plays in Business
 * [Determining value using impact mapping](https://medium.com/@MagnusDahlgren/determining-value-using-impact-mapping-e5c3216f66c2) by Magnus Dahlgren
 * [Impact Mapping introduction](https://theagilecoach.co.nz/impact-mapping/) by Paul Flewelling
-* [Developing working software using Impact Mapping](https://www.metronom.com/blog/2019/02/14/Developing-working-software-using-‘Impact-Mapping’) by Thomas Koch
 * [Make Impact with Impact Mapping](https://stfalcon.com/en/blog/post/impact-mapping-for-product-development) by Mariia Halytska
 * [Impact Mapping & Agile Development](https://ffwagency.com/learning/blog/impact-mapping-agile-development) by Tassos Koutlas
 * [Product Management 101: Product Discovery and Impact Mapping Technique](https://blog.usejournal.com/product-management-101-product-discovery-and-impact-mapping-technique-fd623968fc56)
@@ -69,8 +67,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 ### French
 
 * [Impact mapping](http://blog.thiga.fr/glossaire/definition-impact-mapping/) by Hugo Geissmann
-* [Cartographie de stratégie, l'impact mapping](http://www.areyouagile.com/2017/02/cartographie-strategie-impact-mapping/) by Pablo Pernot
-* [Impact Mapping – Gardez le fil](https://blog.goood.pro/2016/03/03/impact-mapping-gardez-le-fil/) by  Grégory À Lyon
+* [Cartographie de stratégie, l'impact mapping](http://www.areyouagile.com/2017/02/cartographie-strategie-impact-mapping/) by Pablo Pernot, [Archived](https://web.archive.org/web/20190309203434/http://blog.thiga.fr/glossaire/definition-impact-mapping/)
 * [Impact mapping : Comment se concentrer sur des fonctionnalités utiles au projet?](http://coach-agile.com/2017/05/impact-mapping-atelier-agile/) by Marine Cloux
 * [Le Chemin le plus court vers le Succès : Impact Mapping](http://blog.soat.fr/2015/04/scrumday-2015-le-chemin-le-plus-court-vers-le-succes-impact-mapping/) by Patrick Bobo
 
