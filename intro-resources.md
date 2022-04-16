@@ -61,6 +61,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Product Management 101: Product Discovery and Impact Mapping Technique](https://blog.usejournal.com/product-management-101-product-discovery-and-impact-mapping-technique-fd623968fc56)
 * [What is Impact Mapping and Why Do You Need It?](https://uxpressia.com/blog/impact-mapping) by Yuri Vedenin
 * [How to create an Impact Map in 4 easy steps?](https://uxpressia.com/blog/build-impact-map-4-easy-steps) by Arthur McKay
+* [Impact Mapping: Our Impact as an agile organisation](https://www.workingsoftware.dev/impact-mapping-our-impact-as-an-agile-organisation/) by Patrick Roos
 
 ### Spanish
 
