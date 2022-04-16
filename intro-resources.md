@@ -68,7 +68,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 ### French
 
 * [Impact mapping](http://blog.thiga.fr/glossaire/definition-impact-mapping/) by Hugo Geissmann
-* [Cartographie de stratégie, l'impact mapping](http://www.areyouagile.com/2017/02/cartographie-strategie-impact-mapping/) by Pablo Pernot, [Archived](https://web.archive.org/web/20190309203434/http://blog.thiga.fr/glossaire/definition-impact-mapping/)
+* [Cartographie de stratégie, l'impact mapping](http://www.areyouagile.com/2017/02/cartographie-strategie-impact-mapping/) by Pablo Pernot, [Archived](https://web.archive.org/web/20180110115250/http://www.areyouagile.com/2017/02/cartographie-strategie-impact-mapping/)
 * [Impact mapping : Comment se concentrer sur des fonctionnalités utiles au projet?](http://coach-agile.com/2017/05/impact-mapping-atelier-agile/) by Marine Cloux
 * [Le Chemin le plus court vers le Succès : Impact Mapping](http://blog.soat.fr/2015/04/scrumday-2015-le-chemin-le-plus-court-vers-le-succes-impact-mapping/) by Patrick Bobo
 
