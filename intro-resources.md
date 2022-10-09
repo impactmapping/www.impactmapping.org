@@ -35,7 +35,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 ## Web Articles 
 
 ### English
-
+* [Want to Get the Most Bang for Your Buck? Try Impact Mapping](https://agilepainrelief.com/blog/to-get-bang-for-your-buck-try-impact-mapping.html) by Mark Levison
 * [What It Is Impact Mapping?](https://www.kbp.media/impact-mapping/) by Kent McDonald
 * [Introduction to Impact mapping](http://modernux.se/docs/impactmapping/) by Martin Christensen
 * [Impact Mapping: Chart Your Course to a Compelling Product](https://www.dmi.org/news/417820/Impact-Mapping-Chart-Your-Course-for-a-Compelling-Project.htm) by Deborah Wyse
