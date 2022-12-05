@@ -33,6 +33,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Impact Mapping with Innovation Games](https://www.youtube.com/watch?v=o9L19ty12xs) from YOW! Singapore 2017 by Gojko Adzic
 * [Impact Mapping and Story Mapping](https://www.youtube.com/watch?v=yQzIfKzU9PI) WeAreDevelopers Conference 2017 by Christian Hassa
 * [Impact maps and story maps, delivering what matters](https://www.slideshare.net/chassa/2014-0618srdimpact-mapsstorymapsen) by Christian Hassa
+* [Sense of Purpose and Direction with Domain Storytelling and Impact Mapping](https://medium.com/@mufridk/sense-of-purpose-and-direction-with-domain-storytelling-and-impact-mapping-2e5da6bc448c) by Mufrid Krilic
 * [Extending Impact Mapping to Gain Better Product Insights](https://www.scrum.org/resources/blog/extending-impact-mapping-gain-better-product-insights) by Kurt Bittner
 * [Combining OKR with Impact Mapping](https://www.linkedin.com/pulse/combing-okr-impact-mapping-tomek-dabrowski) by Tomek Dabrowski
 * [How to Stay on Course During Product Discovery](https://productcraft.com/best-practices/how-to-stay-on-course-during-product-discovery/) by Tim Herbig 
