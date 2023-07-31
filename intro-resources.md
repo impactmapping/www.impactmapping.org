@@ -60,6 +60,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [What is Impact Mapping and Why Do You Need It?](https://uxpressia.com/blog/impact-mapping) by Yuri Vedenin
 * [How to create an Impact Map in 4 easy steps?](https://uxpressia.com/blog/build-impact-map-4-easy-steps) by Arthur McKay
 * [Impact Mapping: Our Impact as an agile organisation](https://www.workingsoftware.dev/impact-mapping-our-impact-as-an-agile-organisation/) by Patrick Roos
+* [The REVERSE Impact Map and mindset-shift-voodoo](https://www.busra.co/post/the-reverse-impact-map-and-mindset-shift-voodoo) by Büşra Coşkuner
 
 ### Spanish
 
