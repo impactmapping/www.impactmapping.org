@@ -37,7 +37,8 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Extending Impact Mapping to Gain Better Product Insights](https://www.scrum.org/resources/blog/extending-impact-mapping-gain-better-product-insights) by Kurt Bittner
 * [Combining OKR with Impact Mapping](https://www.linkedin.com/pulse/combing-okr-impact-mapping-tomek-dabrowski) by Tomek Dabrowski
 * [How to Stay on Course During Product Discovery](https://productcraft.com/best-practices/how-to-stay-on-course-during-product-discovery/) by Tim Herbig 
-* [On Effect Mapping and Pirate Metrics](http://www.lagerweij.com/2012/06/05/on-effect-mapping-and-pirate-metrics/) by Wouter Lagerweij      
+* [On Effect Mapping and Pirate Metrics](http://www.lagerweij.com/2012/06/05/on-effect-mapping-and-pirate-metrics/) by Wouter Lagerweij
+* [Setting outcome focus and writing OKRs with Impact Mapping](https://www.busra.co/post/mini-series-outcome-focus-with-impact-mapping) by Büşra Coşkuner
 
 ## Research papers 
 
