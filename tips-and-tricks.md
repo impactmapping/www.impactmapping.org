@@ -24,6 +24,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Impact Mapping - now helping Indonesian Hospitals](http://www.marcusoft.net/2014/02/HospitalImpactMap.html) by Marcus Hammarberg 
 * [6 Cases When You Need to Create an Impact Map](https://uxpressia.com/blog/6-cases-when-create-impact-map) by Yuri Vedenin
 * [Cause & Effect and Product Risk](http://tynerblain.com/blog/2019/02/04/cause-effect-and-product-risk/) by Scott Sehlhorst
+* [Shifting from Feature Requests to Outcomes: Reverse Impact Mapping](https://mapperclub.substack.com/p/shifting-feature-requests-to-outcomes) by Christoph Steinlehner
 
 ## Combining with other techniques
 
