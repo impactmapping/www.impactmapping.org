@@ -27,7 +27,7 @@ resources:
       links:
         - url: /tips-and-tricks.html
           text: Go beyond the basics - read tips and tricks for effective impact maps 
-        - url: https://groups.google.com/d/forum/impact-mapping/subscribe
+        - url: https://groups.google.com/g/impact-mapping
           text: Join the discussion list to share your experiences
     - title: For consultants
       fa-icon: bullhorn
@@ -39,7 +39,7 @@ resources:
     - title: Need more help?
       fa-icon: question
       links:
-        - url: https://groups.google.com/d/forum/impact-mapping/subscribe
+        - url: https://groups.google.com/g/impact-mapping
           text: Ask questions and get feedback on your ideas
         - url: http://neuri.co.uk/mentoring.html
           text: Get mentoring
