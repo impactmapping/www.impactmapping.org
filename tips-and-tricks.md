@@ -24,6 +24,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [Impact Mapping - now helping Indonesian Hospitals](http://www.marcusoft.net/2014/02/HospitalImpactMap.html) by Marcus Hammarberg 
 * [6 Cases When You Need to Create an Impact Map](https://uxpressia.com/blog/6-cases-when-create-impact-map) by Yuri Vedenin
 * [Cause & Effect and Product Risk](http://tynerblain.com/blog/2019/02/04/cause-effect-and-product-risk/) by Scott Sehlhorst
+* [Shifting from Feature Requests to Outcomes: Reverse Impact Mapping](https://mapperclub.substack.com/p/shifting-feature-requests-to-outcomes) by Christoph Steinlehner
 
 ## Combining with other techniques
 
@@ -39,6 +40,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [How to Stay on Course During Product Discovery](https://productcraft.com/best-practices/how-to-stay-on-course-during-product-discovery/) by Tim Herbig 
 * [On Effect Mapping and Pirate Metrics](http://www.lagerweij.com/2012/06/05/on-effect-mapping-and-pirate-metrics/) by Wouter Lagerweij
 * [Setting outcome focus and writing OKRs with Impact Mapping](https://www.busra.co/post/mini-series-outcome-focus-with-impact-mapping) by Büşra Coşkuner
+* [How GIST is different from impact maps](https://www.votito.com/methods/gist/#impact-map-difference)
 
 ## Research papers 
 
