@@ -61,6 +61,7 @@ Know an additional resource that should be on this page? Add it directly on [Git
 * [How to create an Impact Map in 4 easy steps?](https://uxpressia.com/blog/build-impact-map-4-easy-steps) by Arthur McKay
 * [Impact Mapping: Our Impact as an agile organisation](https://www.workingsoftware.dev/impact-mapping-our-impact-as-an-agile-organisation/) by Patrick Roos
 * [The REVERSE Impact Map and mindset-shift-voodoo](https://www.busra.co/post/the-reverse-impact-map-and-mindset-shift-voodoo) by Büşra Coşkuner
+* [How I Fell in Love With Impact Mapping...](https://prettyagile.com/2014/02/how-i-fell-in-love-with-impact-mapping/) by Em Campbell-Pretty
 * [Shifting from Feature Requests to Outcomes: Reverse Impact Mapping](https://mapperclub.substack.com/p/shifting-feature-requests-to-outcomes) by Christoph Steinlehner
 
 ### Spanish
